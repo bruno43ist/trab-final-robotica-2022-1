@@ -1,0 +1,26 @@
+[1.069s] Invoking command in '/home/brunofarias/turtlebot3_ws/src/pkg_laser': PYTHONPATH=/home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pkg_laser build --build-base /home/brunofarias/turtlebot3_ws/build/pkg_laser/build install --prefix /home/brunofarias/turtlebot3_ws/install/pkg_laser --record /home/brunofarias/turtlebot3_ws/build/pkg_laser/install.log --single-version-externally-managed
+[1.323s] running egg_info
+[1.324s] writing ../../build/pkg_laser/pkg_laser.egg-info/PKG-INFO
+[1.324s] writing dependency_links to ../../build/pkg_laser/pkg_laser.egg-info/dependency_links.txt
+[1.324s] writing entry points to ../../build/pkg_laser/pkg_laser.egg-info/entry_points.txt
+[1.324s] writing requirements to ../../build/pkg_laser/pkg_laser.egg-info/requires.txt
+[1.324s] writing top-level names to ../../build/pkg_laser/pkg_laser.egg-info/top_level.txt
+[1.364s] reading manifest file '../../build/pkg_laser/pkg_laser.egg-info/SOURCES.txt'
+[1.364s] writing manifest file '../../build/pkg_laser/pkg_laser.egg-info/SOURCES.txt'
+[1.364s] running build
+[1.365s] running build_py
+[1.365s] copying pkg_laser/movement.py -> /home/brunofarias/turtlebot3_ws/build/pkg_laser/build/lib/pkg_laser
+[1.365s] running install
+[1.366s] running install_lib
+[1.367s] copying /home/brunofarias/turtlebot3_ws/build/pkg_laser/build/lib/pkg_laser/movement.py -> /home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/python3.8/site-packages/pkg_laser
+[1.368s] byte-compiling /home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/python3.8/site-packages/pkg_laser/movement.py to movement.cpython-38.pyc
+[1.369s] running install_data
+[1.370s] running install_egg_info
+[1.372s] removing '/home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/python3.8/site-packages/pkg_laser-0.0.0-py3.8.egg-info' (and everything under it)
+[1.373s] Copying ../../build/pkg_laser/pkg_laser.egg-info to /home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/python3.8/site-packages/pkg_laser-0.0.0-py3.8.egg-info
+[1.375s] running install_scripts
+[1.396s] Installing laser script to /home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/pkg_laser
+[1.397s] Installing movement script to /home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/pkg_laser
+[1.404s] Installing node_laser script to /home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/pkg_laser
+[1.404s] writing list of installed files to '/home/brunofarias/turtlebot3_ws/build/pkg_laser/install.log'
+[1.423s] Invoked command in '/home/brunofarias/turtlebot3_ws/src/pkg_laser' returned '0': PYTHONPATH=/home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pkg_laser build --build-base /home/brunofarias/turtlebot3_ws/build/pkg_laser/build install --prefix /home/brunofarias/turtlebot3_ws/install/pkg_laser --record /home/brunofarias/turtlebot3_ws/build/pkg_laser/install.log --single-version-externally-managed

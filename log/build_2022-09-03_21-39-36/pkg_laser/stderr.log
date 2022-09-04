@@ -1,0 +1,5 @@
+  File "/home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/python3.8/site-packages/pkg_laser/movement.py", line 131
+    print('oeste: ' + str(round(laser.oeste, 3)) + ' - noroeste: ' + str(round(laser.noroeste, 3))) +
+                                                                                                    ^
+SyntaxError: invalid syntax
+

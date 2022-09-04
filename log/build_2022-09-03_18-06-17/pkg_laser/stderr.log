@@ -1,0 +1,5 @@
+  File "/home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/python3.8/site-packages/pkg_laser/movement.py", line 163
+    node vel = rclpy.create_node('velocidadepub')
+         ^
+SyntaxError: invalid syntax
+

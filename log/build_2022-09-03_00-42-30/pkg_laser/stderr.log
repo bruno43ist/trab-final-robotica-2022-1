@@ -1,0 +1,5 @@
+  File "/home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/python3.8/site-packages/pkg_laser/movement.py", line 127
+    seguroNorte = laser.norte > 0.4 laser.norte != 0.0
+                                    ^
+SyntaxError: invalid syntax
+

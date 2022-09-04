@@ -1,0 +1,5 @@
+  File "/home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/python3.8/site-packages/pkg_laser/movement.py", line 132
+    if(!mudouNor and laser.leste != 0.0 and laser.oeste != 0.0 and laser.leste != math.inf and laser.oeste != math.inf):
+       ^
+SyntaxError: invalid syntax
+

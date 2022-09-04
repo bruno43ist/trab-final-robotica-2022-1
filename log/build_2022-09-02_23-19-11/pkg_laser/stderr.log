@@ -1,0 +1,5 @@
+  File "/home/brunofarias/turtlebot3_ws/install/pkg_laser/lib/python3.8/site-packages/pkg_laser/movement.py", line 122
+    if((laser.nordeste != 0.0 and laser.noroeste == math.inf) or ((laser.nordeste > laser.noroeste) and (laser.nordeste - laser.noroeste >= 0.3)):
+                                                                                                                                                 ^
+SyntaxError: invalid syntax
+

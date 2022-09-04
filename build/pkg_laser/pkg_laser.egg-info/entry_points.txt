@@ -1,0 +1,5 @@
+[console_scripts]
+laser = pkg_laser.laser:main
+movement = pkg_laser.movement:main
+node_laser = pkg_laser.node_laser:main
+

@@ -1,0 +1,4 @@
+Invoking command in '/home/brunofarias/turtlebot3_ws/build/hls_lfcd_lds_driver': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/brunofarias/turtlebot3_ws/build/hls_lfcd_lds_driver -- -j4 -l4
+Invoked command in '/home/brunofarias/turtlebot3_ws/build/hls_lfcd_lds_driver' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --build /home/brunofarias/turtlebot3_ws/build/hls_lfcd_lds_driver -- -j4 -l4
+Invoking command in '/home/brunofarias/turtlebot3_ws/build/hls_lfcd_lds_driver': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/brunofarias/turtlebot3_ws/build/hls_lfcd_lds_driver
+Invoked command in '/home/brunofarias/turtlebot3_ws/build/hls_lfcd_lds_driver' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake --install /home/brunofarias/turtlebot3_ws/build/hls_lfcd_lds_driver
